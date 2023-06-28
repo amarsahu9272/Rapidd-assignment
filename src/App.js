@@ -1,19 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
-
 import { Fragment } from 'react';
-import Page3 from './component/page3';
-//import Page from './component/page';
-//import Page2 from './component/page2';
+import Header from './component/header';
+import Body from './component/body';
+
 
 
 function App() {
 
   return (
     <Fragment>
-      {/* <Page /> */}
-      {/* <Page2 /> */}
-      <Page3/>
+      <Header />
+      <Body />
     </Fragment>
   )
 }
