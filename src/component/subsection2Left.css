@@ -1,0 +1,26 @@
+.subsection2Left {
+    flex: 0.5;
+}
+
+.image-left {
+    width: 100%;
+    height: 40vh;
+    border: none;
+}
+
+.subsection2Left-btm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 2%;
+    box-sizing: border-box;
+}
+
+.subsection2Left-btm span {
+    display: flex;
+    align-items: center;
+    color: rgb(3, 71, 145);
+}

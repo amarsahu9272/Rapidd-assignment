@@ -1,0 +1,23 @@
+.section3-container{
+    
+}
+.section3 {
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: white;
+}
+.section3-h{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    background-color: white;
+    padding-left: 120px;
+    padding-right: 120px;
+    box-sizing: border-box;
+}

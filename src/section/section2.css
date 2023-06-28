@@ -1,0 +1,22 @@
+.section2 {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width:500px) {
+    .section2 {
+        max-width: 100%;
+        flex-direction: column;
+    }
+
+
+}
+
+/* @media screen and (max-width:1005px) {
+    .section2 {
+        max-width: 630px;
+    }
+} */

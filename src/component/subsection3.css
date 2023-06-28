@@ -1,0 +1,21 @@
+.subsection3-wrapper{
+    padding: 10px;
+    width: 15%;
+    background-color: rgb(231, 230, 230);
+}
+.subsection3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    box-sizing: border-box;
+}
+.subsection3>p{
+    text-align: center;
+}
+.image-subsection3{
+    width:20vh;
+    height: 10vh;
+    border: none;
+}

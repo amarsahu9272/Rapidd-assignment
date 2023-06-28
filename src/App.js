@@ -1,5 +1,5 @@
 import './App.css';
-import { Fragment } from 'react';
+// import { Fragment } from 'react';
 import Header from './component/header';
 import Body from './component/body';
 
@@ -8,10 +8,10 @@ import Body from './component/body';
 function App() {
 
   return (
-    <Fragment>
+    <div className='App'>
       <Header />
       <Body />
-    </Fragment>
+    </div>
   )
 }
 
