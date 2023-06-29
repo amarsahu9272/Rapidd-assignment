@@ -1,0 +1,39 @@
+.section5 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.last-column-r {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+}
+
+.last-column-r>a {
+    display: flex;
+    align-items: center;
+    color: rgb(3, 71, 145);
+}
+
+@media screen and (max-width:500px) {
+    .section5 {
+        max-width: 100%;
+    }
+
+    .section5>span>.section5-h {
+        align-items: center;
+    }
+
+    .last-column {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 5px;
+        flex-wrap: wrap;
+    }
+
+}

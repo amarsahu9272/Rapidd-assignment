@@ -1,21 +1,28 @@
-.subsection3-wrapper{
-    padding: 10px;
-    width: 15%;
+.subsection3-wrapper {
+    padding: 20px;
+    width: 20%;
     background-color: rgb(231, 230, 230);
 }
+
 .subsection3 {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 5px;
+    width: 100%;
     box-sizing: border-box;
+    /* border: 2px solid red; */
 }
-.subsection3>p{
+
+.subsection3>p {
+    font-size: larger;
     text-align: center;
+    overflow: hidden; 
+    text-overflow: ellipsis;
 }
-.image-subsection3{
-    width:20vh;
-    height: 10vh;
+
+.image-subsection3 {
+    width: 60%;
     border: none;
 }

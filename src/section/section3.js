@@ -7,7 +7,7 @@ function Section3() {
         <div className='section3-container'>
             <div className='section3-h'>
                 <h3>Officia ut</h3>
-                <a>Ipsum Lorem</a>
+                <a href='#section1'>Ipsum Lorem</a>
             </div>
             <div className='section3'>
                 <Subsection3 />
@@ -18,8 +18,7 @@ function Section3() {
                 <Subsection3 />
                 <Subsection3 />
                 <Subsection3 />
-                <Subsection3 />
-                <Subsection3 />
+
             </div>
         </div>
     )

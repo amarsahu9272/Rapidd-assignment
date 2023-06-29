@@ -1,7 +1,7 @@
 import './App.css';
-// import { Fragment } from 'react';
 import Header from './component/header';
 import Body from './component/body';
+import Footer from './component/footer';
 
 
 
@@ -11,6 +11,7 @@ function App() {
     <div className='App'>
       <Header />
       <Body />
+      <Footer />
     </div>
   )
 }

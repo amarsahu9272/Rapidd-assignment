@@ -40,9 +40,16 @@
 }
 
 .subsection3-b {
-    width: 18vh;
-    height: 5vh;
+    width: 100%;
     color: rgb(3, 71, 145);
     border: 1px solid rgb(3, 71, 145);
     background-color: white;
+}
+.section4-b{
+    width: 18vh;
+    height: 5vh;
+    color: white;
+    padding: 5px;
+    border: 2px solid white;
+    background-color:transparent;
 }
