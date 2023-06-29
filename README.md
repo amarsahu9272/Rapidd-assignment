@@ -1,4 +1,4 @@
-![Screenshot (172)](https://github.com/amarsahu9272/Rapidd-assignment/assets/84452853/58f0e8f2-a6bb-498c-9216-8e6b1d71b80a)![Screenshot (172)](https://github.com/amarsahu9272/Rapidd-assignment/assets/84452853/df1677ba-3f92-469b-b420-cd83acf37c3c)# Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
